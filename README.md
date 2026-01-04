@@ -33,7 +33,7 @@ The pipeline operates in four distinct stages:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/promexdotme/childcarewa.git
-   cd wa-childcare-pipeline
+   cd childcarewa
    ```
 
 2. **Install required libraries:**
