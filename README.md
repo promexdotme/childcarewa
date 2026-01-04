@@ -32,7 +32,7 @@ The pipeline operates in four distinct stages:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/wa-childcare-pipeline.git
+   git clone https://github.com/promexdotme/childcarewa.git
    cd wa-childcare-pipeline
    ```
 
